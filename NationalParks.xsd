@@ -12,7 +12,6 @@
               <!-- Name of Park-->
               <xs:element name="Name" type="xs:string" minOccurs="1" maxOccurs="1"/>
 
-
               <!-- Phone number -->
               <xs:element name="Phone" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
 
